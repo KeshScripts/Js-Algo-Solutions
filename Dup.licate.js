@@ -1,5 +1,6 @@
 let array = [4, 3, 2, 7, 8, 2, 3, 1];
 let len = array.length;
+
 const x = function DuplicatesOut(nums) {
   let result = [];
 
